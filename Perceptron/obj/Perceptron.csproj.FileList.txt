@@ -1,0 +1,9 @@
+bin\Debug\Perceptron.exe
+bin\Debug\Perceptron.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Perceptron.Form1.resources
+obj\Debug\Perceptron.FrmAbout.resources
+obj\Debug\Perceptron.Properties.Resources.resources
+obj\Debug\Perceptron.csproj.GenerateResource.Cache
+obj\Debug\Perceptron.exe
+obj\Debug\Perceptron.pdb

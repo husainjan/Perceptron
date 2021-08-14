@@ -1,0 +1,25 @@
+﻿<UserCombinePreferences version="1.0" filename="/media/PicGameProg/Visual studio projects/Perceptron/Perceptron.sln">
+  <Files>
+    <File name="Welcome" />
+    <File name="Perceptron/Program.cs" line="1" column="1" />
+    <File name="Perceptron/FrmAbout.Designer.cs" line="1" column="1" />
+    <File name="Perceptron/FrmAbout.cs" line="10" column="1" />
+    <File name="Perceptron/Form1.cs" line="1" column="1" />
+  </Files>
+  <Views>
+    <ViewMemento id="ProjectPad">
+      <Node expanded="True">
+        <Node name="Perceptron" expanded="True">
+          <Node name="Form1.cs" selected="True" />
+        </Node>
+      </Node>
+    </ViewMemento>
+    <ViewMemento id="ClassPad">
+      <Node expanded="True" />
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Property key="ActiveWindow" value="/media/PicGameProg/Visual studio projects/Perceptron/Perceptron/Form1.cs" />
+    <Property key="ActiveConfiguration" value="Debug|Any CPU" />
+  </Properties>
+</UserCombinePreferences>
